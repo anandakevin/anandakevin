@@ -1,6 +1,5 @@
-Hi 👋 My name is Ananda Kevin Refaldo Sariputra
+Hello there! 👋 I'm Kevin
 ===============================================
-
 Software Engineer | Competitive Programming | AI
 ------------------------------------------------
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/anandakevin) [![GitHub followers](https://img.shields.io/github/followers/anandakevin?label=Followers&style=social)](https://github.com/anandakevin/?tab=follow) ![licence:free to use](https://img.shields.io/badge/licence-free--to--use-blue) [![Linkedin Badge](https://img.shields.io/badge/-anandakevin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ananda-kevin-refaldo-sariputra/)](https://www.linkedin.com/in/ananda-kevin-refaldo-sariputra) 
