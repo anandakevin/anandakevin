@@ -1,4 +1,4 @@
-Hello there! 👋 I'm Kevin
+<h1 align="center">Hello there! 👋 I'm Kevin</h1>
 ===============================================
 <h2 align="center"><b> Software Engineer | Competitive Programming | AI</b></h2>
 ------------------------------------------------
