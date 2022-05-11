@@ -1,6 +1,6 @@
 Hello there! 👋 I'm Kevin
 ===============================================
-Software Engineer | Competitive Programming | AI
+<h2 align="center"><b> Software Engineer | Competitive Programming | AI</b></h2>
 ------------------------------------------------
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/anandakevin) [![GitHub followers](https://img.shields.io/github/followers/anandakevin?label=Followers&style=social)](https://github.com/anandakevin/?tab=follow) ![Profile views](https://komarev.com/ghpvc/?username=anandakevin&color=blueviolet) ![licence:free to use](https://img.shields.io/badge/licence-free--to--use-blue) [![Linkedin Badge](https://img.shields.io/badge/-anandakevin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ananda-kevin-refaldo-sariputra/)](https://www.linkedin.com/in/ananda-kevin-refaldo-sariputra) 
 
