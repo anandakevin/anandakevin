@@ -6,7 +6,8 @@
 
 <img align="left" height="200" src="https://media.tenor.com/0_tLW8PF3zYAAAAC/magus-elias-ainsworth.gif"  />
 
-<img src="https://raw.githubusercontent.com/anandakevin/anandakevin/output/snake.svg" alt="Snake animation" /><br><br><br><br><br><br><br><br><br><br>
+<img src="https://raw.githubusercontent.com/anandakevin/anandakevin/output/snake.svg" alt="Snake animation" /> 
+
 * 🌍 I'm based in Indonesia
 * 🏢 I'm currently working on Projects in BCA
 * 🤝 I'm interested to collaborate on projects which require creative thinking and deep problem solving
