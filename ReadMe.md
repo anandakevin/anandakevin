@@ -6,7 +6,11 @@
 
 <img align="left" height="200" src="https://media.tenor.com/0_tLW8PF3zYAAAAC/magus-elias-ainsworth.gif"  />
 
-<img src="https://raw.githubusercontent.com/anandakevin/anandakevin/output/snake.svg" alt="Snake animation" /> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anandakevin/anandakevin/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anandakevin/anandakevin/output/snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/anandakevin/anandakevin/output/snake.svg" />
+</picture> 
 
 * 🌍 I'm based in Indonesia
 * 🏢 I'm currently working on Projects in BCA
