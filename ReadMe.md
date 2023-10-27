@@ -3,14 +3,13 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/anandakevin) [![GitHub followers](https://img.shields.io/github/followers/anandakevin?label=Followers&style=social)](https://github.com/anandakevin/?tab=follow) ![Profile views](https://komarev.com/ghpvc/?username=anandakevin&color=blueviolet) ![licence:free to use](https://img.shields.io/badge/licence-free--to--use-blue) [![Linkedin Badge](https://img.shields.io/badge/-anandakevin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ananda-kevin-refaldo-sariputra/)](https://www.linkedin.com/in/ananda-kevin-refaldo-sariputra)
 
-
 <img align="left" height="200" src="https://media.tenor.com/0_tLW8PF3zYAAAAC/magus-elias-ainsworth.gif"  />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anandakevin/anandakevin/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anandakevin/anandakevin/output/snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/anandakevin/anandakevin/output/snake.svg" />
-</picture> 
+</picture>
 
 * 🌍 I'm based in Indonesia
 * 🏢 I'm currently working on Projects in BCA
@@ -18,8 +17,11 @@
 * 📖 I'm also looking for help in deepening my skills and guiding me through the path of great software engineer
 * 🧠 Currently I'm Learning on Angular, React, Competitive Programming & Cloud on GCP and AWS
 * 🤔 You can ask me about competitive programming and FrontEnd and BackEnd Development, hopefully I'll be able to answer what your curiousity holds
+
 ### 🚀 Tools/ Technologies/ What I use/used
+
 ---
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -38,6 +40,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" height="40" alt="android_compose logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
@@ -181,7 +185,9 @@
 </div>
 
 ### 👋 Connect with me
+
 ---
+
 <div align="center">
   <a href="https://www.linkedin.com/in/ananda-kevin-refaldo-sariputra" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo"  />
@@ -219,11 +225,12 @@
   </a>
 </div>
 
-### 📈 GitHub Stats <img align="right" src="https://komarev.com/ghpvc/?username=anandakevin&color=blue"  />
+### 📈 GitHub Stats `<img align="right" src="https://komarev.com/ghpvc/?username=anandakevin&color=blue"  />`
+
 ---
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anandakevin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anandakevin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&order=2" height="200" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=anandakevin&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&date_format=M j[, Y]&order=3" height="200" alt="streak graph"  />
-  <a href="http://www.github.com/anandakevin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anandakevin&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
