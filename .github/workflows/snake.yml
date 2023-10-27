@@ -19,7 +19,7 @@ jobs:
         uses: Platane/snk/svg-only@master
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg
+          svg_out_path: dist/snake.svg
 
 
       - name: push snake.svg to the output branch
