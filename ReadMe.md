@@ -1,22 +1,28 @@
 <h1 align="center">Hello there! 👋 I'm Kevin</h1>
-<h2 align="center"><b> Software Engineer | Competitive Programming | AI</b></h2>
 
-![](https://visitor-badge.glitch.me/badge?page_id=github.com/anandakevin) [![GitHub followers](https://img.shields.io/github/followers/anandakevin?label=Followers&style=social)](https://github.com/anandakevin/?tab=follow) ![Profile views](https://komarev.com/ghpvc/?username=anandakevin&color=blueviolet) ![licence:free to use](https://img.shields.io/badge/licence-free--to--use-blue) [![Linkedin Badge](https://img.shields.io/badge/-anandakevin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ananda-kevin-refaldo-sariputra/)](https://www.linkedin.com/in/ananda-kevin-refaldo-sariputra)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1BA7EA&center=true&random=false&width=435&lines=Ananda+Kevin+Refaldo+Sariputra;Senior+Software+Engineer;PPTI+BCA;Math+Olympiad+Nationalist;AWS+Cloud+Practitioner+Certified;Machine+Learning+Engineer;Competitive+Programming+Warrior" alt="Typing SVG" /></a>
+</p>
 
-<img align="left" height="200" src="https://media.tenor.com/0_tLW8PF3zYAAAAC/magus-elias-ainsworth.gif"  />
+![img](https://visitor-badge.glitch.me/badge?page_id=github.com/anandakevin) [![GitHub followers](https://img.shields.io/github/followers/anandakevin?label=Followers&style=social)](https://github.com/anandakevin/?tab=follow) ![Profile views](https://komarev.com/ghpvc/?username=anandakevin&color=blueviolet) ![licence:free to use](https://img.shields.io/badge/licence-free--to--use-blue) [![Linkedin Badge](https://img.shields.io/badge/-anandakevin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ananda-kevin-refaldo-sariputra/)](https://www.linkedin.com/in/ananda-kevin-refaldo-sariputra)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anandakevin/anandakevin/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anandakevin/anandakevin/output/snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/anandakevin/anandakevin/output/snake.svg" />
-</picture>
+<img align="left" height="200" src="https://media.tenor.com/0_tLW8PF3zYAAAAC/magus-elias-ainsworth.gif"  /><br><br><br><br><br><br><br><br>
 
 * 🌍 I'm based in Indonesia
 * 🏢 I'm currently working on Projects in BCA
+* 📦 I'm also working on my portfolio website
 * 🤝 I'm interested to collaborate on projects which require creative thinking and deep problem solving
-* 📖 I'm also looking for help in deepening my skills and guiding me through the path of great software engineer
-* 🧠 Currently I'm Learning on Angular, React, Competitive Programming & Cloud on GCP and AWS
-* 🤔 You can ask me about competitive programming and FrontEnd and BackEnd Development, hopefully I'll be able to answer what your curiousity holds
+* 📖 I'm open for guidance in exploring and learning the skills through the path of great software engineer
+* 🧠 Currently I'm Learning on Competitive Programming & Front End Frameworks
+* 🤔 You can ask me about competitive programming and FrontEnd and BackEnd Development, hopefully I'll be able to answer what your curiosity holds
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anandakevin/anandakevin/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anandakevin/anandakevin/output/snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/anandakevin/anandakevin/output/snake.svg" />
+  </picture>
+</p>
 
 ### 🚀 Tools/ Technologies/ What I use/used
 
@@ -225,8 +231,10 @@
   </a>
 </div>
 
-### 📈 GitHub Stats <img align="right" src="https://komarev.com/ghpvc/?username=anandakevin&color=blue"  />
+### 📈 GitHub Stats `<img align="right" src="https://komarev.com/ghpvc/?username=anandakevin&color=blue"  />`
+
 ---
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anandakevin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anandakevin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&order=2" height="200" alt="languages graph"  />
