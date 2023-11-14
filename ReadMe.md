@@ -231,7 +231,7 @@
   </a>
 </div>
 
-### 📈 GitHub Stats `<img align="right" src="https://komarev.com/ghpvc/?username=anandakevin&color=blue"  />`
+### 📈 GitHub Stats <img align="right" src="https://komarev.com/ghpvc/?username=anandakevin&color=blue"  />
 
 ---
 
